@@ -8,6 +8,7 @@
 */
 /* styles-5.css */
 /* ======= Base ======= */
+/*
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
@@ -17,6 +18,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+*/
+body {
+  background-image: url("https://nova-designs.github.io/imran-majeed/assets/images/imran.jpeg"");
+  background-color: #cccccc;
+ }
+
 h1,
 h2,
 h3,
